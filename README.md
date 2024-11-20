@@ -4,7 +4,7 @@
 
 指定された URL にリダイレクトするだけのアプリケーションです。
 
-Python django を使用しています。
+Django を使用しています。
 
 ## 実行方法
 
@@ -14,7 +14,7 @@ Python django を使用しています。
     cd redirect-server-app
     ```
 
-2. django をインストール
+2. Django をインストール
     ```
     pip install django
     ```
